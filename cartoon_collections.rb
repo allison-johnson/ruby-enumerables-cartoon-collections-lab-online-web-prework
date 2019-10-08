@@ -1,5 +1,5 @@
-def roll_call_dwarves(arr)
-  # Your code here
+def roll_call_dwarves(names)
+  names.each{ |name| 
 end
 
 def summon_captain_planet# code an argument here
