@@ -8,7 +8,7 @@ def summon_captain_planet(calls)
   calls.map{|call| "#{call.capitalize()}!"}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(calls)
   # Your code here
 end
 
